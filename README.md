@@ -1,4 +1,4 @@
-# Moj-broj
+# Moj-broj_asm
 Potrebno je realizovati igru “Moj broj” iz kviza “Slagalica”. Kada se započne igra, generiše se
 nasumičan broj u opsegu 1-999, kao i četiri broja u opsegu 1-9, jedan broj iz skupa {10, 15, 20} i jedan
 broj iz skupa {25, 50, 75, 100}. Potrebno je dobiti prvi generisani broj koristeći se isključivo ostalim
