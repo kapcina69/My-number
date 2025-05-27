@@ -26,7 +26,7 @@ The full task requirements are provided in the `text` file included in this repo
 
 ## 🚀 How to Run
 
-This project is designed to be run in an x86 environment (e.g., DOSBox or similar emulator supporting assembly execution). Instructions for building and running the project can be found in the `build_instructions.txt` file (if included).
+This project is designed to be run in an x86 environment (e.g., DOSBox or similar emulator supporting assembly execution). 
 
 ## 🎯 Objective
 
